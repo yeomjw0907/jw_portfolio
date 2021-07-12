@@ -1,6 +1,6 @@
 # jw_portfolio
 ## React로 포트폴리오 만들기 
-자세한 기록은 하단 Notion에 날짜별로 기록합니다.
+자세한 기록은 하단 Notion에 날짜별로 기록합니다.   
 [포트폴리오 세부사항 보러 가기](https://www.notion.so/React-20d4675a48d046e6addacfffad799961)
 
 ### 1일차
