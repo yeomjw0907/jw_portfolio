@@ -9,3 +9,9 @@
 - snap-scroll 구현
 - Topbar가 고정되도록 구현
 - 스크롤바 없애기
+### 2일차
+*** 
+- hamburger menu구현
+- hamburger 누를시 menu 나오도록 구현
+- Topbar 색상 전환, menu 표시 이벤트가 부드럽도록 구현
+- menu에서 선택시 자동으로 Menu바 닫히도록 구현
