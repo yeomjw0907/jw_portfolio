@@ -16,15 +16,15 @@ export default function Intro() {
     <div className="intro" id="intro">
       <div className="left">
         <div className="imgContainer">
-          <img src="assets/mobile.png" alt="프로필 사진" />
+          <img src="assets/jwprofileimg.png" alt="프로필 사진" />
         </div>
       </div>
       <div className="right">
         <div className="wrapper">
-          <h2>자기개발을 좋아하는</h2>
+          <h2>끊임 없이 배움을 추구하는</h2>
           <h1>염정원 입니다.</h1>
           <h3>
-            저는 <span ref={textRef}> </span> 입니다.
+            저는 현재 <span ref={textRef}> </span> 입니다.
           </h3>
         </div>
         <a href="#portfolio">
