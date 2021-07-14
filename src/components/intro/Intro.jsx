@@ -9,14 +9,14 @@ export default function Intro() {
       showCursor: true,
       backDelay: 1500,
       backSpeed: 60,
-      strings: ["대학생", "연구원", "대표"],
+      strings: ["대학생", "연구원", "Product manager"],
     });
   }, []);
   return (
     <div className="intro" id="intro">
       <div className="left">
         <div className="imgContainer">
-          <img src="assets/jwprofileimg.png" alt="프로필 사진" />
+          <img src="assets/jwimg.png" alt="프로필 사진" />
         </div>
       </div>
       <div className="right">
