@@ -21,3 +21,7 @@
 - 데이터 받아오게끔 구현
 - cantact페이지 구현
 - 더미 데이터 넣기
+### 3일차
+*** 
+- netify에 1차 배포 [보러가기](https://60eff052adbc62d769239b0f--angry-brahmagupta-23dbaa.netlify.app/)
+- emailjs로 실제 메일 보내기 구현
